@@ -13,4 +13,4 @@ I removed the photos that did not correspond to the task (basketball shoes for e
 
 ## I tries some of my own photos and the results where perfect.
 
-
+![image](https://user-images.githubusercontent.com/64303300/121358902-426eba00-c933-11eb-955b-b5f9d65a9344.png)
