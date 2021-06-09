@@ -1,19 +1,16 @@
-# Project Name
+# Computer Vision on tennis and basketball balls 
 
-This is an R project designed to...
+This follow the 2nd chapter of Deep learning for coders book. 
+We used transfer learning to rapidly train a model that classify tennis and basketball balls. 
+Results were pretty good without much tuning. 
+Accuracy 93% on 20% validation set. 
+What is very interesting is that the model (resnet18) adapted rapidly and with an small training set to the data. 
 
-## Execution
+## Where did the data came from? 
 
-The end-to-end project can be run from the 0_orchestrate.R file.  Results will be produced in the /docs directory.
+I downloaded photos from the Bing images API. 
+I removed the photos that did not correspond to the task (basketball shoes for ex.)
 
-```bash
-Rscript 0_orchestrate.R
-```
+## I tries some of my own photos and the results where perfect. 
 
-```R
-source("0_orchestrate.R")
-```
-
-## Contribute
-Please contact the project owner if interested in contributing.
 
